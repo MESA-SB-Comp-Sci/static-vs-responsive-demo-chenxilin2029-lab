@@ -9,17 +9,17 @@ body {
 }
 
 h1 {
-  font-size: 60px; /* CHANGE TO: 5vw */
+  font-size: 5vw; /* CHANGE TO: 5vw */
   font-weight: bold;
   margin-bottom: 20px;
 }
 
 h2 {
-  font-size: 30px; /* CHANGE TO: 2.5vw */
+  font-size: 30px; /* CHANGE TO: 2vw */
 }
 
 p {
-  font-size: 20px; /* CHANGE TO: 2vw */
+  font-size: 2vw; /* CHANGE TO: 2vw */
   line-height: 1.6;
 }
 .hero {
