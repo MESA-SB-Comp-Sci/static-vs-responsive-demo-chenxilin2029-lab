@@ -38,6 +38,27 @@ p {
 
 /* Compleate challenge down here */
 
+.box-style{
+   border: 1px solid white;
+   margin: 0px; color: black;
+   width: 24vw; 
+   height: 20vw;
+   display:inline-block; 
+}
 
+.yellow{
+   background-color: yellow;
+}
 
+.green{
+   background-color: green;
+}
+
+.blue{
+   background-color: blue;
+}
+
+ .red{
+   background-color: red;
+}
 
